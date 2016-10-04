@@ -8,25 +8,25 @@
 >[warning]插件的**可靠性由您自行判断**，我们不对使用任何插件所造成的后果负责。
 
 ###1.1 申请社区账号
-我们的社区(http://f.mypcqq.cc)必须拥有一个账户才能进行插件的获取和下载，所以在获取插件之前请注册我们社区。
+我们的社区( http://f.mypcqq.cc )必须拥有一个账户才能进行插件的获取和下载，所以在获取插件之前请注册我们社区。
 
 访问我们的社区，点击右上角的注册按钮，开始注册流程。
-![](image/56aa0defa16fa.png)
+![](https://pic.freejishu.com/images/2016/10/04/638f961d41d8b850833c6d8ec84d2d03.png)
 
 
-![](image/56aa0df796c4f.png)
+![](https://pic.freejishu.com/images/2016/10/04/6e7ba6c3f70b6ae69160516530a02a82.png)
 
 
-![](image/56aa26fbdef46.jpg)
+![](https://pic.freejishu.com/images/2016/10/04/2bff18402a794c424dffef39f0f11f82.jpg)
 >[warning]帐号注册成功后，需要接收激活邮件激活后才能正常使用。若无法接收激活邮件，请将您的UID或用户名，以及申请事项**使用注册时填写的邮箱地址**编辑邮件发送到admin@mypcqq.cc。
 
 ###1.2 查找插件
 进入插件发布板块，选择感兴趣的插件，点击标题进入插件主题贴。
-![](image/56aa2b8c895f2.jpg)
+![](https://pic.freejishu.com/images/2016/10/04/50dbe4306d77f949d837fd0b4e42472a.jpg)
 在这个页面上，可以了解到插件的各项**基本信息及功能**，以及**插件作者**对插件的介绍。若有兴趣或需求，可下载此贴子提供的附件。**建议详细阅读插件说明**，以便正确配置插件使用。
 
 ###1.3 下载插件
-![](image/56aa2c36468f2.jpg)
+![](https://pic.freejishu.com/images/2016/10/04/24253d7fe7c9a8d1fb0dd97e5a93dae5.jpg)
 插件通常以附件的方式提供，下载附件通常**需要喵币和/或回复本贴**。**支付喵币或回复贴子后**即可点击链接下载
 
 ## 安装插件
@@ -40,7 +40,7 @@
 只需要把下载来的后缀为**.xx.dll**的插件放到MyPCQQ目录下**Plugin**文件夹内，重启MyPCQQ，MyPCQQ会自动扫描文件夹内新放入的插件并且加载它们。（需要重启MyPCQQ）
 ####2、热加载
 在**插件**选项卡空白处右键，即可看到菜单。选择**事先**放到MyPCQQ目录下**Plugin**文件夹内的后缀为**.xx.dll**的插件，如果插件可用，MyPCQQ便会加载这个新插件。（不需重启MyPCQQ）
-![](image/56c845f6c2da0.png)
+![](https://pic.freejishu.com/images/2016/10/04/7581126fead425ba57c18da5e8a41915.png)
 >[info]Tips：为什么不能加载别的文件夹的插件？
 Windows内置UAC（用户账户管理）系统以保护私人文件不被恶意读取（UAC在Windows7以后的版本表现的比较活跃）。如果不在MyPCQQ目录下，UAC很有可能会阻止MyPCQQ读取插件从而导致加载失败。
 
