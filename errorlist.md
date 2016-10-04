@@ -9,50 +9,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TOC=2,4]
 ##启动之前的问题
 ####1、MyPCQQ可以开几个？可以多开吗？
@@ -75,7 +31,7 @@ A：<font  style="font-size:7px;">
 
 ##启动过程中的问题
 ####1、提示：插件载入失败/未公开任何处理函数
-![](image/56aa1a4039054.png)
+![](http://box.kancloud.cn/2016-01-28_56aa210c05d91.png)
 原因：
 1、被杀软或者各种安全软件拦截
 2、插件本身有问题
@@ -103,7 +59,7 @@ A：<font  style="font-size:7px;">
 2、挨个插件从Plugin文件夹中移除、删掉测试。
 
 ####4、提示：Not found the kernel library or the kernel library is invalid or the kernel library of this edition does not support DLL!
-![](image/56adde5fbf58b.png)
+![](http://box.kancloud.cn/2016-01-31_56adde6ac8846.png)
 原因：某个/某些插件没有静态/独立编译
 解决方案：挨个插件删除排查
 
@@ -142,40 +98,6 @@ https://f.mypcqq.cc/thread-4274-1-1.html
 ![](https://mypcqqupload.b0.upaiyun.com/forum/201609/17/212647n6in300s80q0rzsn.png)
 ![](https://mypcqqupload.b0.upaiyun.com/forum/201609/17/212652tdfuzdffxk2d5u2s.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 我当然知道为什么嘛~
 MyPCQQ系易语言编写，系统内部的文本是灰常本土化滴ANSI的储存方式。
 这一类问题通常发生在海外机器上，**因为系统没有中文语言包**（里面包含ANSI的解码）。
@@ -189,24 +111,9 @@ UTF-8每个字都要拿出一定的字节取储存头部ROM信息。而ANSI没�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##登录过程中的问题
 ####1、提示：刷刷刷一排UDP服务器可用性测试->无回音
-![](image/56aa1e0d68239.png)
+![](http://box.kancloud.cn/2016-01-28_56aa210d18103.png)
 >Tips：布局可能和实际情况不符，但提示基本一致。
 
 原因：
@@ -214,7 +121,7 @@ UTF-8每个字都要拿出一定的字节取储存头部ROM信息。而ANSI没�
 2、网络环境UDP数据包不通
 解决方案：
 1、找到Windows控制面板 - 搜索“本地安全策略”，仅保留图示三条记录，其他的安全策略删除。
-![](image/56aa1ed5a9b7e.png)
+![](http://box.kancloud.cn/2016-01-28_56aa210d30319.png)
 
 
 ####2、提示：登录->接触服务器->失败 服务器无响应
@@ -282,42 +189,6 @@ UTF-8每个字都要拿出一定的字节取储存头部ROM信息。而ANSI没�
 ####12、提示：在class->在执行登录过程中发生了一个异常
 解决方案:在反馈区反馈给我们
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##运行过程中的问题
 
 
@@ -380,6 +251,6 @@ UTF-8每个字都要拿出一定的字节取储存头部ROM信息。而ANSI没�
 
 
 >[info]编写:Eghuai
->[info]润色:freejishu & a632079
->[info]审核:Eghuai
->[info]最后更新:2016.10.03
+>润色:freejishu & a632079
+>审核:Eghuai
+>最后更新:2016.10.03
