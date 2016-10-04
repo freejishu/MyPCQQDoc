@@ -17,40 +17,40 @@
 ###2.1解压&启动 MyPCQQ
 <font color="#008000" style="font-size:20px;">将下载的文件解压，打开里面的Core.exe(MyPCQQ的主程序)</font>
 
-![](image/56a907a617d8e.png)
+![](https://pic.freejishu.com/images/2016/10/04/4d6c1f1c00ca3d4e079417d940fc0911.png)
 
 <font color ="#008000" style="font-size:20px;">通常我们会在这里看到一个提示框</font>
 >[info] 第一次启动，我们会询问你是否打开本文档，建议首次打开，详细阅读本文档。
 
-![](image/56a9073b7cb66.png)
+![](https://pic.freejishu.com/images/2016/10/04/27555c45dffd8bc7c174ad959f89682b.png)
 
 ###2.2添加账户
 
 <font color ="#008000" style="font-size:20px;">我们点击<i style="color:red;">`账户`</i>，然后会发现这里有一个空白列表。对的，你没有看错，我们支持多Q登入 </font>
 
-![](image/56a9073ddbd02.png)
+![](https://pic.freejishu.com/images/2016/10/04/376cbb67e288aba5b10abe26ccf92515.png)
 
 <font color ="#008000" style="font-size:20px;">我们使用鼠标**右键**点击**列表中**任意位置，然后就会出现下图的样子，然后使用鼠标**左键**点击<i style="color:red;">`添加QQ\修改`</i> </font>
 
-![](image/56a90741f01ab.png)
+![](https://pic.freejishu.com/images/2016/10/04/c146c07915f351e4cc4d408b78009766.png)
 
 <font color ="#008000" style="font-size:20px;">于是你就会发现和下图一样的登录框，按照图片的指示**输入你的QQ号和密码**，最后点击**添加**按钮。 </font>
 
-![](image/56a907455d035.png)
+![](https://pic.freejishu.com/images/2016/10/04/bbf8b82c43db9395bb3432b8a0a02de1.png)
 
 <font color ="#008000" style="font-size:20px;">将鼠标指针移动到你的**QQ号上**，使用鼠标**右键**点下，会出现和图片一样的菜单，**点击**<i style="color:red;">`登录`</i> ，等待结果。 </font>
 
-![](image/56a90747205b2.png)
+![](https://pic.freejishu.com/images/2016/10/04/0b120be40e568c7b413a719311a3d503.png)
 
 <font color ="#008000" style="font-size:20px;">当看到<i style="color:#555;">`登入成功`</i>的消息被抛出时，也就说明你登录成功了。</font>
 >[danger] 如果登入过程中出现错误，请参考 [MyPCQQ - 错误](http://doc.mypcqq.cc/inuse/113497)
 
-![](image/56a9074b0a4be.png)
+![](https://pic.freejishu.com/images/2016/10/04/8a85fe5b54162af1991bb9b0c0160e0c.png)
 
 ###2.3插件
 <font color ="#008000" style="font-size:20px;">点击插件，我们可以发现这时候插件列表是空的。关于如何 安装&使用插件 请阅读下一节。 </font>
 
-![](image/56a9074d5c477.png)
+![](https://pic.freejishu.com/images/2016/10/04/c3bdcd757141f38397c11b443c65eba4.png)
 
 
 >[info]编写:丸子
