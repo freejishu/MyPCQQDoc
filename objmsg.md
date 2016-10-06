@@ -1,11 +1,12 @@
 #卡片消息
+
+>*本篇目等待编辑中...仅供预览...*
+
+##关于ObjectMsg
+
 MyPCQQ支持卡片消息(也就是XMLMSG或者ObjMSG)的发送。
 
-*本篇目等待编辑中...仅供预览...*
-
-关于ObjectMsg
-
-layout
+##layout类型
 类型2//点歌
 类型3//图片上传
 类型4//小型
@@ -14,6 +15,7 @@ layout
 类型7//QQ崩溃
 类型37//新闻 
 
+##尾部类型
 
 关于末尾
 02 00 04 00 00 00 02//群点歌 有转发按钮 无打开按钮
@@ -24,16 +26,21 @@ layout
 02 00 04 00 00 00 21//发送网址 类型21仅移动设备能看到结构框 PC显示文本信息
 02 00 04 00 00 00 22//PC完全不可视 移动设备正常
 
-<msg templateID="1"></msg>
-<item layout="6">   内置项目  </item>
-<picture cover="图片连接" />//插入一张图
-<summary>文本</summary>//加入一段文本
-<hr />//换行
-<item layout="0" mode="1">
+##一些示例
+&lt;msg templateID="1">&lt;/msg>
+
+&lt;item layout="6">   内置项目  &lt;/item>
+
+&lt;picture cover="图片连接" />//插入一张图
+
+&lt;summary>文本&lt;/summary>//加入一段文本
+
+&lt;hr />//换行
+
+&lt;item layout="0" mode="1">
 
 >[info]编写:Time_Task
 >润色:-
 >审核:-
 >最后更新:2016.10.5
-
 
