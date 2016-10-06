@@ -27,17 +27,17 @@ MyPCQQ支持卡片消息(也就是XMLMSG或者ObjMSG)的发送。
 02 00 04 00 00 00 22//PC完全不可视 移动设备正常
 
 ##一些示例
-<msg templateID="1"></msg>
+&lt;msg templateID="1">&lt;/msg>
 
-<item layout="6">   内置项目  </item>
+&lt;item layout="6">   内置项目  &lt;/item>
 
-<picture cover="图片连接" />//插入一张图
+&lt;picture cover="图片连接" />//插入一张图
 
-<summary>文本</summary>//加入一段文本
+&lt;summary>文本&lt;/summary>//加入一段文本
 
 &lt;hr />//换行
 
-<item layout="0" mode="1">
+&lt;item layout="0" mode="1">
 
 >[info]编写:Time_Task
 >润色:-
